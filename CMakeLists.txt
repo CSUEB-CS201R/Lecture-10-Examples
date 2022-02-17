@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(ArraySandbox ArraySandbox.cpp)
 add_executable(MinMax MinMax.cpp)
+add_executable(Average Average.cpp)
