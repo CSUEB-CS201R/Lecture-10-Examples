@@ -4,3 +4,4 @@ project(Lecture10Examples)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(ArraySandbox ArraySandbox.cpp)
+add_executable(MinMax MinMax.cpp)
